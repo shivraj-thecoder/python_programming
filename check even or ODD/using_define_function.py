@@ -6,4 +6,4 @@ def check_even(value_x):
 
 x=int(input("enter a number :"))
 x = check_even(x)
- print(x)    
+print(x)    
